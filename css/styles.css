@@ -76,7 +76,7 @@ body {
     opacity: 1;
 }
 
-/* QR Code */
+/* QR Code  */
 #qr-code {
     display: flex;
     opacity: 0;
